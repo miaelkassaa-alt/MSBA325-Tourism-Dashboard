@@ -15,4 +15,4 @@ The dashboard uses the MSBA325 tourism dataset containing information about hote
 
 ## Live Application
 
-The public Streamlit application link will be added here after deployment.
+[Open the Tourism in Lebanon Dashboard](https://msba325-tourism-dashboard-4xjurdtfct9pmveon5zdnb.streamlit.app/)
